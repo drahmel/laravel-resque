@@ -1,5 +1,5 @@
 {
-	"name": "awellis13/laravel-resque",
+	"name": "drahmel/laravel-resque",
 	"version": "1.2.2",
 	"description": "Laravel Resque connector for Queue.",
 	"keywords": ["laravel", "resque", "queue"],
